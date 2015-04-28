@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sena\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="C:\Users\sena\Documents\SENA2015\2015 Don\UDOO\proyectos-android\creadordepostales\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1-01edb81879abafb5a7b5c02a92e4c9c0633ee63d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sena\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v13\19.0.1\support-v13-19.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4d00c1fa39c05a544fc2221af40bbf76e07c7df">
+        <dex dex="C:\Users\sena\Documents\SENA2015\2015 Don\UDOO\proyectos-android\creadordepostales\app\build\intermediates\pre-dexed\debug\support-v13-19.0.1-373f6a8fe8c9cdf019cbad3fea5f6aef933221b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\sena\Documents\SENA2015\2015 Don\UDOO\proyectos-android\creadordepostales\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\sena\Documents\SENA2015\2015 Don\UDOO\proyectos-android\creadordepostales\app\build\intermediates\pre-dexed\debug\commons-io-2.4-d0295fde5e20911944e48316991ca80a7573175b.jar" />
+    </item>
+
+</items>

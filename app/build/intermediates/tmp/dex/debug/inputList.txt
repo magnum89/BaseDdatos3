@@ -1,0 +1,4 @@
+C:\Users\sena\Documents\SENA2015\2015 Don\UDOO\proyectos-android\creadordepostales\app\build\intermediates\classes\debug
+C:\Users\sena\Documents\SENA2015\2015 Don\UDOO\proyectos-android\creadordepostales\app\build\intermediates\pre-dexed\debug\support-v13-19.0.1-373f6a8fe8c9cdf019cbad3fea5f6aef933221b1.jar
+C:\Users\sena\Documents\SENA2015\2015 Don\UDOO\proyectos-android\creadordepostales\app\build\intermediates\pre-dexed\debug\commons-io-2.4-d0295fde5e20911944e48316991ca80a7573175b.jar
+C:\Users\sena\Documents\SENA2015\2015 Don\UDOO\proyectos-android\creadordepostales\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1-01edb81879abafb5a7b5c02a92e4c9c0633ee63d.jar
